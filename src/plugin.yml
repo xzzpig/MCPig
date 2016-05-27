@@ -2,3 +2,16 @@ name: MCPig
 main: com.github.xzzpig.mcpig.Main
 version: V0.1
 author: xzzpig
+commands:
+  mcpig:
+    description: MCPig的命令帮助
+    usage: §6[MCPig]§2查看插件帮助:/mp help
+    aliases: [mp]
+  runclass:
+    description: 执行clsss
+    usage: /rc [类名] <参数>...
+    aliases: [rc]
+premission: 
+  runclass.*: 
+    description: /rc执行权限
+    default: op

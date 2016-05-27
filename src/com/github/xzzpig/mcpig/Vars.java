@@ -11,6 +11,8 @@ public class Vars {
 
 	public static boolean enable_tcp = config.getBoolean("mcpig.enable.tcp",
 			true);
+	public static boolean enable_lib = config.getBoolean("mcpig.enable.lib",
+			true);
 
 	public static Server server;
 }
