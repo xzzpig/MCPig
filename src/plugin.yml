@@ -11,7 +11,7 @@ commands:
     description: 执行clsss
     usage: /rc [类名] <参数>...
     aliases: [rc]
-premission: 
+permission: 
   runclass.*: 
     description: /rc执行权限
     default: op

@@ -1,8 +1,8 @@
 package com.github.xzzpig.mcpig.listener;
 
 import com.github.xzzpig.mcpig.Debuger;
+import com.github.xzzpig.pigapi.MD5;
 import com.github.xzzpig.pigapi.TData;
-import com.github.xzzpig.pigapi.bukkit.MD5;
 import com.github.xzzpig.pigapi.customevent.ClientConnectEvent;
 import com.github.xzzpig.pigapi.customevent.ServerDataReachEvent;
 import com.github.xzzpig.pigapi.event.EventHandler;
