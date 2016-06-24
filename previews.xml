@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<previews>
+
+    <preview
+        name="Nexus 10"
+        activity="com.github.xzzpig.mcpig.MainActivity"
+        config="layout-__-ldltr-sw800dp-w800dp-h1280dp-xlarge-notlong-notround-port-notnight-xhdpi-finger-keyssoft-nokeys-navhidden-nonav-2560x1600-v24"
+        device="Nexus 10"
+        devicestate="Portrait"
+        target="Android N"
+        theme="@style/AppTheme" >
+    </preview>
+
+</previews>
